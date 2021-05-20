@@ -24,5 +24,6 @@ Github Profile: https://github.com/Brucksta
 
 
 During the creating of my initial repository, the public file was lost, and between myself and my lecturer at uni, we were unable to fix and repush the file. The only option we could find is to start a new repo, although it means my repo commit log is 1. Below is an imagine of my initial repository containing the real commit number of 6.
+My initial repo can be found here, with the full build log, although the public file has been irrevesibly lost, but all changes can still be viewed: https://github.com/Brucksta/Express-notes
 
 ![image](https://user-images.githubusercontent.com/78789156/118983243-60dc3800-b9bb-11eb-8123-f8c9c14c7937.png)
